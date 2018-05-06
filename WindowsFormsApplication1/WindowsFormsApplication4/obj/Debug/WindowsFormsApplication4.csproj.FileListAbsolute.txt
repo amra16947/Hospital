@@ -1,0 +1,8 @@
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\model\Desktop\RPR\Zadaca4\zadaca4\WindowsFormsApplication1\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
